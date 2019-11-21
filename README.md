@@ -91,6 +91,8 @@ print(score)
 99.40% accuracy[Epoch 00006]
 99.50% max accuracy[Epoch 00016]
 12,658 parameters
+Batchsize-128
+Epochs-20
 
 Use of Batch Normalization that reduces the number of training epochs to train the network and stabilize the learning process.
 Dropout of 0.09 provides remarkable effective regularization and reduce overfitting.
